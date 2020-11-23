@@ -7,4 +7,4 @@ This version is heavily based (for now) on Ben Eater's version of the EEPROM pro
 
 I still have to solder and check that the circuit is working.
 When I'm sure it's working I will upload the KiCad files.
-I will also do my version of the code.
+I will also do my own version of the code.
