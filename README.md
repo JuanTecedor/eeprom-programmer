@@ -1,6 +1,7 @@
 ![3D View](MyVersion/3DView.png)
 ![PCB](MyVersion/PCB.png)
 ![Schematic](MyVersion/Schematic.png)
+![Result](MyVersion/FinalResult.png)
 
 This version is heavily based (for now) on Ben Eater's version of the EEPROM programmer, originally licensed under MIT LICENSE.
 
